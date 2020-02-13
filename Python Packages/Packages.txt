@@ -1,0 +1,5 @@
+Pandas #It is required for data management. Pan-Panel Das-Data
+Numpy #Basic arithematic operations
+Sklearn #Open source package which has all machine learning capabilitites
+Scipy #Advaced mathematic operations
+matplotlib #Visualization purpose
